@@ -17,8 +17,10 @@ FlashLight spam
 ImgurScreen key - Creating screenshot and publihing on imgur.com
 Anti anti afk
 
-Menu:
-![1](https://user-images.githubusercontent.com/86654007/123767095-e6fb7080-d8cf-11eb-9d8c-a25ae10a8771.png)
+Information:
+Working on all platforms and Geforce now)
+Menu open:INSERT
 
-ScreenShot In Game:
 ![2](https://user-images.githubusercontent.com/86654007/123767275-02ff1200-d8d0-11eb-8f15-74f0f594fa24.png)
+
+![1](https://user-images.githubusercontent.com/86654007/123767095-e6fb7080-d8cf-11eb-9d8c-a25ae10a8771.png)
